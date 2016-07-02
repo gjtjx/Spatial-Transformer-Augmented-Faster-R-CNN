@@ -1,6 +1,6 @@
 # Spatial-Transformer-Augmented-Faster-R-CNN
 
-__NOTE__: this is part of my code for hand detection using deep model.
+__NOTE__: this is part of my code for hand detection using deep model. I mainly implemented the framework using Lua within Torch, and Python for preprocessing. 
 
 The image below clearly depicts what I have implemented for this work: 
 
